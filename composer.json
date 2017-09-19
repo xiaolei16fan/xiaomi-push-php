@@ -1,0 +1,29 @@
+{
+    "name": "xiaolei16fan/mi-push_server_php",
+    "description": "xiaomi message push library for php server side.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Huawei Company",
+            "email": "ranwuer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "xmpush\\": "src/xmpush"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }  
+    }
+}
