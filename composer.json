@@ -1,5 +1,5 @@
 {
-    "name": "xiaolei16fan/xiaomi-push-php",
+    "name": "messagepush/xiaomi-push-php",
     "description": "xiaomi message push library for php server side.",
     "type": "library",
     "license": "MIT",

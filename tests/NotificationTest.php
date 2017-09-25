@@ -3,7 +3,6 @@
 use xmpush\Sender;
 use xmpush\Constants;
 use xmpush\Builder;
-use xmpush\TargetedMessage;
 use PHPUnit\Framework\TestCase;
 
 class NotificationTest extends TestCase
